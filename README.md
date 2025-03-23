@@ -4,4 +4,4 @@
 [![GitHub](https://img.shields.io/badge/KevinCerdaa-%23121011.svg?logo=github&logoColor=white)](https://github.com/KevinCerdaa)
 
 ## TECNOLOGÍAS QUE ESTOY APRENDIENDO:
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,latex,py,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,latex,py,arduino)](https://skillicons.dev)

@@ -1,4 +1,4 @@
-# DESARROLLADOR EN PROCESO 🎒↗️
+# DEV EN PROCESO 🎒↗️
 
 ## SOBRE MI
 🎒 ¡Hola! Soy Kevin, estudiante de la Universidad Politécnica de San Luis Potosí, cursando la carrera de Ingeniería en Tecnologías de la Información (ITI). Siempre estoy en busca de nuevos aprendizajes y me emociona crear cosas. Me apasiona el software y las posibilidades infinitas que se pueden lograr con un lenguaje de programación.
